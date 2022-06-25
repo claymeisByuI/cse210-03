@@ -9,6 +9,7 @@ class Word_list:
         list_of_words(List): a list of possible words
         current_secret: The word for this game
     """
+    
     def __init__(self, terminal_service):
         """ Constructs a new Word_list.
 
